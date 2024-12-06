@@ -3,7 +3,7 @@
 ## 📚 Sobre a Disciplina  
 **Disciplina**: MIC014 – Hands-On Basic  
 **Atividade**: Maker Aula 3  
-**Assunto**: ASSUNTO
+**Assunto**: Dispenser de sabão/álcool em gel
 
 ## 🚀 Projeto  
 DESCRIÇÃO
@@ -11,7 +11,7 @@ DESCRIÇÃO
 ---
 
 ## 🏆 Desafio K2 - NOME DESAFIO  
-O objetivo é construir uma solução funcional e testável para o ... COMPLETAR.
+O objetivo é construir uma solução funcional e testável para Dispenser de sabão/álcool em gel.
 
 ---
 
