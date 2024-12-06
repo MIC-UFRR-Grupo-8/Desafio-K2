@@ -6,8 +6,9 @@
 **Assunto**: Dispenser de sabão/álcool em gel
 
 ## 🚀 Projeto  
-DESCRIÇÃO
-
+Monitoramento da Higiene das Mãos usando ESP32 e
+Detector de Presença para Registrar o Uso do Dispenser de
+Sabão/álcool em gel
 ---
 
 ## 🏆 Desafio K2 - NOME DESAFIO  
