@@ -11,7 +11,7 @@ Detector de Presença para Registrar o Uso do Dispenser de
 Sabão/álcool em gel
 ---
 
-## 🏆 Desafio K2 - NOME DESAFIO  
+## 🏆 Desafio K2 - Sistema de monitoramento de higiene das mão  
 Realizar a documentação detalhada e execução de testes do Desafio K2, com orienta-
 ção do professor. O objetivo é garantir que todos os aspectos técnicos e processuais estejam bem
 documentados e compreendidos pelos alunos.
