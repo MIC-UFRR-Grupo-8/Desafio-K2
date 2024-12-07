@@ -1,9 +1,9 @@
-# MIC014 – Hands-On Basic: Desenvolvimento Orientado a Testes  
+# MIC014 – Hands-On Basic
 
 ## 📚 Sobre a Disciplina  
 **Disciplina**: MIC014 – Hands-On Basic  
 **Atividade**: Maker Aula 3  
-**Assunto**: Dispenser de sabão/álcool em gel
+**Assunto**: Sistema de monitoramento de higiene das mão
 
 ## 🚀 Projeto  
 Monitoramento da Higiene das Mãos usando ESP32 e
@@ -12,7 +12,7 @@ Sabão/álcool em gel
 ---
 
 ## 🏆 Desafio K2 - NOME DESAFIO  
-O objetivo é construir uma solução funcional e testável para Dispenser de sabão/álcool em gel.
+O objetivo é construir uma solução funcional e testável de Sistema de monitoramento de higiene das mão.
 
 ---
 
