@@ -17,7 +17,7 @@ void setup() {
 void loop() {
 
   if ( (digitalRead(PIN_PIR) == HIGH) && (digitalRead(PIN_BUTTON) == LOW)) {
-            digitalWrite(PIN_LED,HIGH);
+            digitalWrite(PIN_BUZZER,HIGH);
             contador++; // Incrementa o contador de usos do dispenser
             Serial.print("Dispenser utilizado. Total de usos: ");
             Serial.println(contador);
